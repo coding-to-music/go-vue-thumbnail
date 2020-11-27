@@ -1,3 +1,3 @@
-module github.com/Dirk94/website-thumbnail-generator
+module github.com/coding-to-music/go-vue-thumbnail
 
 go 1.15
